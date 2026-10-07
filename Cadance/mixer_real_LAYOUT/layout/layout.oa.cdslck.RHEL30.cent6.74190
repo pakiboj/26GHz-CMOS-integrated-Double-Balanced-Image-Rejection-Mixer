@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       cent6
+ProcessIdentifier              74190
+ProcessCreationTime_UTC        1789989597
+ProcessCreationTime_Readable   Mon Sep 21 13:19:57 2026 CEST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/work/RF_26/pm210343d/PROJECT_MIXER/mixer_real_LAYOUT/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Mon Sep 21 13:25:46 2026 CEST

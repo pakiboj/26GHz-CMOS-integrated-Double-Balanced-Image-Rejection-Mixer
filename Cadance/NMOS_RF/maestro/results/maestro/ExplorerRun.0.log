@@ -1,0 +1,31 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Sep 14 17:40:30 2026 
+Best design point: 1
+Design specs: 
+	sweep	corner	Nominal - 
+	5		86.96n
+	JD		2.174m
+	GM		2.213u
+	gmID		25.44
+	vth		404.2m
+	VDsat		44.79m
+	cdd		9.862f
+	cdb		-20.43a
+	cdg		-9.978f
+	VOV		-404.2m
+	value(OP("/NMOS_RF" "region") 0.1)		0
+	value(OP("/NMOS_RF" "region") 0.3)		0
+	value(OP("/NMOS_RF" "region") 0.5)		0
+	value(OP("/NMOS_RF" "region") 0.7)		0
+	value(OP("/NMOS_RF" "region") 0.9)		0
+	value(OP("/NMOS_RF" "region") 1.1)		0
+	CDD		15.29f
+	value(OS("/NMOS_RF" "vth") 0.88)		417.7m
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Sep 14 17:40:37 2026 
